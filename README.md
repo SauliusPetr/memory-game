@@ -7,7 +7,3 @@ Click on a card no more than once
   <li>Use useEffect hook for fetching data</li>
   <li>Make use of Tailwind</li>
 </ul>
-
-### How to get it running
-You can make a local copy and run 'npm run dev'
- 
